@@ -20,4 +20,4 @@ El sitio cuenta con 5 secciones:
 - Diseño 100% responsive: se adapta a celular, tablet y computadora
 - Navegación simple mediante menú con enlaces entre páginas
 - Interfaz simple y básica debido a las limitaciones 
-- Código separado en HTML y
+- Código separado en HTML
