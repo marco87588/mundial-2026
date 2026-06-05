@@ -14,10 +14,10 @@ El sitio cuenta con 5 secciones:
 - **HTML5**: Estructura de las 5 páginas del sitio
 - **Github**: Control de versiones y alojamiento del código
 - **Github Pages**: Despliegue del sitio web en vivo
-- **Acode**: Editor de código usado para el desarrollo en móvil
+- **Acode**: Editor de código usado para el desarrollo en teléfono 
 
 ## 📱 Características
 - Diseño 100% responsive: se adapta a celular, tablet y computadora
 - Navegación simple mediante menú con enlaces entre páginas
-- Interfaz limpia con los colores representativos del mundial
+- Interfaz simple y básica debido a las limitaciones 
 - Código separado en HTML y
