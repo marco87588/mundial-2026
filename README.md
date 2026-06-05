@@ -12,8 +12,6 @@ El sitio cuenta con 5 secciones:
 
 ## 🛠️ Herramientas y tecnologías utilizadas
 - **HTML5**: Estructura de las 5 páginas del sitio
-- **CSS3**: Estilos personalizados con variables y diseño responsive
-- **Bootstrap 5.3.3**: Framework para el diseño y componentes como botones y tarjetas
 - **Github**: Control de versiones y alojamiento del código
 - **Github Pages**: Despliegue del sitio web en vivo
 - **Acode**: Editor de código usado para el desarrollo en móvil
